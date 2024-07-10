@@ -2,9 +2,9 @@ let peso = 120;
 let altura = 1.87;
 
 let imc = peso / (altura * altura);
+// Solução alternativa: let imc = peso / (Math.pow(altura, 2));
 
 console.log("Seu IMC é: " + imc.toFixed(2));
-// Solução alternativa: let imc = peso / (Math.pow(altura, 2));
 
 if(imc < 18.5){
     console.log("Você está abaixo do peso.");
