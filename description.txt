@@ -1,0 +1,1 @@
+Aplicação calcula o IMC (índice de massa corporal) com base no peso e altura da pessoa e retorna o seu valor e em qual categoria ela se encontra com base em seu resultado.
